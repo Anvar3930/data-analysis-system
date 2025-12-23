@@ -1,0 +1,11 @@
+id,category,value,text
+1,sales,120,iphone
+2,sales,80,case
+3,logs,5,error
+4,metrics,200,cpu
+5,sales,150,mac
+6,logs,2,warn
+7,metrics,90,ram
+8,ops,60,deploy
+9,ops,40,rollback
+10,logs,15,fatal
